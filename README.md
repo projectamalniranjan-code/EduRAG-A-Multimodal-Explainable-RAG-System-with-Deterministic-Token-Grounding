@@ -1,0 +1,2 @@
+# EduRAG-A-Multimodal-Explainable-RAG-System-with-Deterministic-Token-Grounding
+EduRAG is a production-grade Retrieval-Augmented Generation (RAG) system designed specifically for trustworthy educational Q&amp;A. It combines advanced retrieval techniques with explainable AI to answer questions about textbooks, research papers, and lecture slides with full citation grounding and hallucination detection.
