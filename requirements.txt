@@ -1,0 +1,43 @@
+# Web Scraping & Image Processing
+requests
+beautifulsoup4
+Pillow
+
+# Data Manipulation
+pandas
+numpy
+
+# Document Parsing (Module 1)
+docling
+docling-core
+PyMuPDF
+
+# Retrieval (Module 2)
+rank-bm25
+sentence-transformers
+faiss-cpu
+
+# Explainability & Evaluation
+shap
+evaluate==0.4.1
+bert-score
+
+# Fixed versions for Windows compatibility
+pyarrow==22.0.0
+datasets==2.16.1
+aiohttp>=3.13
+
+# App & Environment
+python-dotenv
+streamlit
+
+# LangChain Ecosystem (Module 3)
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-ollama
+pydantic
+
+# Visualization (Module 4)
+scikit-learn
+plotly
